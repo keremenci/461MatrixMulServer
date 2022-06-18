@@ -1,7 +1,9 @@
-# IPC server and client for matrix multiplication
-Author: Mustafa Kerem Menemencioğlu 191101029
+The following file is the file I sent when sending the homework. Probably won't fix because im lazy lol
 
-Usage: simply run both files and enter information when prompted.
+# IPC server and client for matrix multiplication
+Author: Mustafa Kerem Menemencioğlu
+
+Usage: Simply run both files and enter information when prompted.
 
 The client prints out the result.
 
