@@ -1,7 +1,7 @@
 The following file is the file I sent when sending the homework. Probably won't fix because im lazy lol
 
 # IPC server and client for matrix multiplication
-Author: Mustafa Kerem Menemencioğlu
+Author: Keremenci
 
 Usage: Simply run both files and enter information when prompted.
 
